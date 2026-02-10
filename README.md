@@ -1,86 +1,85 @@
-### Hi, I’m Emil Hed 👋
-
-I’m a **Master’s student in Systems, Control, and Robotics at KTH** working at the intersection of  
-**machine learning, computer vision, robotics, and cloud systems**.
-
-My work focuses on **deployable ML systems** — from perception and multimodal models to latency-aware inference pipelines and scalable infrastructure.
-
----
-
-### 🔬 Current Focus
-
-- 🤖 **Vision-Language-Action models for robotics**
-  - Master’s thesis on *MeanFlow action heads* for low-latency robotic control
-  - Benchmarking on CALVIN / LIBERO
-- ☁️ **ML systems & infrastructure**
-  - AWS-based inference pipelines, cost-aware design, async workers
-- 🧠 **Applied ML**
-  - Representation learning, reinforcement learning, recommendation systems
+<!-- Hero / Intro -->
+<h1 align="center">👋 Emil Hed</h1>
+<p align="center">
+    <i>Systems, Control & Robotics M.Sc.</i> @ KTH Royal Institute of Technology<br>
+    <b>ML Engineer</b> • Perception • Control • Deployed Systems
+</p>
 
 ---
 
-### 🛠 Technical Stack
-
-**Languages**
-- Python, C++, MATLAB, SQL, Bash
-
-**ML / DL**
-- PyTorch, TensorFlow, JAX, scikit-learn, ONNX, Weights & Biases
-
-**Vision & Robotics**
-- ROS2, OpenCV, GTSAM
-- YOLOv8, CLIP
-- SLAM, state estimation, perception-based control
-
-**Cloud / Systems**
-- AWS (SageMaker, ECR, App Runner, S3, IAM)
-- Docker, FastAPI, PostgreSQL
-- GitHub Actions, CI/CD
-
-**Hardware**
-- Arduino, PCB design, power electronics, sensor integration
+<p align="center">
+  <a href="https://github.com/hedemil">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hedemil&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Selected Work
+## Currently Building
 
-**Master’s Thesis (ongoing)**  
-*MeanFlow Action Heads for FLOWER VLA*  
-One-step generative action modeling to reduce inference latency in robotic manipulation.
+**Master's Thesis** — Low-latency Vision-Language-Action models (OpenVLA)  
+Replacing DiT + rectified flow action heads with **one-step generative flows** to cut inference time while maintaining robotic task success rates.  
+*Target: Real-time deployment-ready policies for vision+language robotic control.*
 
-**Swirl — Technical Co-Founder**  
-- Built a multimodal retrieval system for wine recognition using CLIP, YOLOv8, and OCR  
-- ~98% accuracy, ≤400 ms end-to-end latency  
-- Designed and deployed the full ML backend on AWS  
-- Currently integrating personalized recommendation systems
-
-**Graph-SLAM for Natural Landmark Mapping**  
-- Full Graph-SLAM pipeline with GTSAM  
-- Natural landmark detection using DBSCAN and geometric validation
-
-**Double Deep Q-Learning on the World3 Model**  
-- Reinforcement learning for long-horizon policy optimization in nonlinear systems
+**Swirl** (co-founder) — Multimodal wine label recognition  
+Built **98% accuracy** visual search with **≤400ms** end-to-end latency using:  
+`YOLOv8 → PaddleOCR → CLIP embeddings → PostgreSQL vector search`  
+*Fully deployed on AWS (SageMaker/ECR/App Runner autoscaling).*
 
 ---
 
-### 📌 Interests
+## Technical Focus
 
-- Embodied AI & robotics
-- Multimodal representation learning
-- ML systems & deployment
-- Data-efficient learning
-- Real-time inference under constraints
+**Perception & Robotics**  
+Graph-SLAM with GTSAM + custom DBSCAN landmark detection (Victoria Park dataset)  
+ROS2 • OpenCV • State estimation • Robust control  
+
+**Reinforcement Learning**  
+Double DQN for long-horizon policy optimization (World3 dynamics)  
+PyTorch • JAX • wandb  
+
+**Production ML**  
+Multimodal embeddings (CLIP fine-tuning)  
+Low-latency inference stacks  
+AWS SageMaker/ECR/App Runner  
 
 ---
 
-### 📫 Contact
+## 🧰 Stack
 
-- LinkedIn: https://www.linkedin.com/in/emil-hed
-- Email: emhed@kth.se
+Languages ML/DL Robotics Cloud/DevOps Hardware
+Python C++ PyTorch JAX ROS2 GTSAM AWS Docker FastAPI Arduino PCB
+MATLAB SQL TensorFlow OpenCV YOLOv8 PostgreSQL CI/CD Sensors DC-DC
 
 ---
 
-### 📈 GitHub Stats
+## 📂 Featured Repos
 
-![Emil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedemil&show_icons=true&hide_border=true)
+| Project | What I Built | Tech | Impact |
+|---------|--------------|------|--------|
+| **[GraphSLAM](https://github.com/hedemil/GraphSLAM)** | Full pipeline + natural landmark detection | GTSAM • DBSCAN • Python | Robust loop closure on Victoria Park |
+| **[FLOWER VLA](https://github.com/hedemil/flower_vla_calvin)** | 1-step flow action heads for OpenVLA | PyTorch • Generative flows | Latency reduction for robotic policies |
+| **[World3-DQN](https://github.com/hedemil/World3-DQN)** | Double DQN for sustainability policies | PyTorch • RL | Long-horizon control in nonlinear dynamics |
+| **[Swirl](https://www.swirlyourwines.com/)** | Real-time label → embedding → info pipeline | YOLOv8 CLIP AWS | 98% acc, 400ms latency, 1000s users |
 
+**Bachelor Thesis:** [Double Deep Q-Learning on World3](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-357839)
+
+---
+
+## 📫 Get In Touch
+
+<p align="center">
+  <a href="mailto:emhed@kth.se">
+    <img src="https://img.shields.io/badge/Gmail-emhed%40kth.se-blue.svg?style=for-the-badge&logo=gmail&logoColor=white" height="24">
+  </a>
+  <a href="https://www.linkedin.com/in/emil-hed">
+    <img src="https://img.shields.io/badge/LinkedIn-emil--hed-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="24">
+  </a>
+  <a href="https://swirlyourwines.com">
+    <img src="https://img.shields.io/badge/Swirl-Live%20App-FF6B35.svg?style=for-the-badge&logo=aws&logoColor=white" height="24">
+  </a>
+</p>
+
+<p align="center">
+  <i>Stockholm, Sweden • Open to ML/Robotics roles</i>
+</p>
