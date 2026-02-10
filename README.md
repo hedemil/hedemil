@@ -64,9 +64,24 @@ AWS SageMaker/ECR/App Runner
 
 ## 🧰 Stack
 
-Languages ML/DL Robotics Cloud/DevOps Hardware
-Python C++ PyTorch JAX ROS2 GTSAM AWS Docker FastAPI Arduino PCB
-MATLAB SQL TensorFlow OpenCV YOLOv8 PostgreSQL CI/CD Sensors DC-DC
+**Languages**
+- Python · C++ · MATLAB · SQL
+
+**ML / DL**
+- PyTorch · TensorFlow · JAX · OpenCV · YOLOv8
+
+**Robotics**
+- ROS 2 · GTSAM · Sensor Fusion
+
+**Cloud / DevOps**
+- AWS · Docker · FastAPI · CI/CD
+
+**Hardware**
+- Arduino · PCB Design · Sensors · DC-DC Converters
+
+**Databases**
+- PostgreSQL
+
 
 ---
 
