@@ -70,13 +70,13 @@ MATLAB SQL TensorFlow OpenCV YOLOv8 PostgreSQL CI/CD Sensors DC-DC
 
 <p align="center">
   <a href="mailto:emhed@kth.se">
-    <img src="https://img.shields.io/badge/Gmail-emhed%40kth.se-blue.svg?style=for-the-badge&logo=gmail&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/email-emhed%40kth.se-blue.svg?style=for-the-badge&logo=gmail&logoColor=white" height="24">
   </a>
   <a href="https://www.linkedin.com/in/emil-hed">
     <img src="https://img.shields.io/badge/LinkedIn-emil--hed-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="24">
   </a>
   <a href="https://swirlyourwines.com">
-    <img src="https://img.shields.io/badge/Swirl-Live%20App-FF6B35.svg?style=for-the-badge&logo=aws&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/Swirl.svg?style=for-the-badge&logo=aws&logoColor=white" height="24">
   </a>
 </p>
 
