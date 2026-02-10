@@ -7,11 +7,28 @@
 
 ---
 
-<p align="center">
+<div align="center">
+
   <a href="https://github.com/hedemil">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hedemil&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedemil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=20260210"
+      height="100"
+      alt="GitHub stats"
+    />
   </a>
-</p>
+
+  <br />
+
+  <a href="https://github.com/hedemil">
+    <img
+      src="https://streak-stats.demolab.com?user=hedemil&theme=tokyonight&hide_border=true"
+      height="160"
+      alt="GitHub streak"
+    />
+  </a>
+
+</div>
+
 
 ---
 
