@@ -60,7 +60,7 @@ MATLAB SQL TensorFlow OpenCV YOLOv8 PostgreSQL CI/CD Sensors DC-DC
 | **[GraphSLAM](https://github.com/hedemil/GraphSLAM)** | Full pipeline + natural landmark detection | GTSAM • DBSCAN • Python | Robust loop closure on Victoria Park |
 | **[FLOWER VLA](https://github.com/hedemil/flower_vla_calvin)** | 1-step flow action heads for OpenVLA | PyTorch • Generative flows | Latency reduction for robotic policies |
 | **[World3-DQN](https://github.com/hedemil/World3-DQN)** | Double DQN for sustainability policies | PyTorch • RL | Long-horizon control in nonlinear dynamics |
-| **[Swirl](https://www.swirlyourwines.com/)** | Real-time label → embedding → info pipeline | YOLOv8 CLIP AWS | 98% acc, 400ms latency, 1000s users |
+| **[Swirl](https://www.swirlyourwines.com/)** | Real-time label → embedding → info pipeline | YOLOv8 CLIP AWS | 98% acc, 400ms latency|
 
 **Bachelor Thesis:** [Double Deep Q-Learning on World3](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-357839)
 
