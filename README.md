@@ -22,8 +22,7 @@ Replacing DiT + rectified flow action heads with **one-step generative flows** t
 *Target: Real-time deployment-ready policies for vision+language robotic control.*
 
 **Swirl** (co-founder) — Multimodal wine label recognition  
-Built **98% accuracy** visual search with **≤400ms** end-to-end latency using:  
-`YOLOv8 → PaddleOCR → CLIP embeddings → PostgreSQL vector search`  
+Built **98% accuracy** visual search with **≤400ms** end-to-end latency  
 *Fully deployed on AWS (SageMaker/ECR/App Runner autoscaling).*
 
 ---
@@ -40,7 +39,8 @@ PyTorch • JAX • wandb
 
 **Production ML**  
 Multimodal embeddings (CLIP fine-tuning)  
-Low-latency inference stacks  
+Low-latency inference stacks
+Recommendation system
 AWS SageMaker/ECR/App Runner  
 
 ---
@@ -74,9 +74,6 @@ MATLAB SQL TensorFlow OpenCV YOLOv8 PostgreSQL CI/CD Sensors DC-DC
   </a>
   <a href="https://www.linkedin.com/in/emil-hed">
     <img src="https://img.shields.io/badge/LinkedIn-emil--hed-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="24">
-  </a>
-  <a href="https://swirlyourwines.com">
-    <img src="https://img.shields.io/badge/Swirl.svg?style=for-the-badge&logo=aws&logoColor=white" height="24">
   </a>
 </p>
 
