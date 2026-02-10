@@ -2,7 +2,7 @@
 <h1 align="center">👋 Emil Hed</h1>
 <p align="center">
     <i>Systems, Control & Robotics M.Sc.</i> @ KTH Royal Institute of Technology<br>
-    <b>ML Engineer</b> • Perception • Control • Deployed Systems
+    Embodied AI • ML • Perception • Control • Deployed Systems
 </p>
 
 ---
