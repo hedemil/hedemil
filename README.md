@@ -29,7 +29,6 @@
 
 </div>
 
-
 ---
 
 ## Currently Building
@@ -56,32 +55,16 @@ PyTorch • JAX • wandb
 
 **Production ML**  
 Multimodal embeddings (CLIP fine-tuning)  
-Low-latency inference stacks
-Recommendation system
+Low-latency inference stacks • Recommendation system  
 AWS SageMaker/ECR/App Runner  
 
 ---
 
 ## 🧰 Stack
 
-**Languages**
-- Python · C++ · MATLAB · SQL
-
-**ML / DL**
-- PyTorch · TensorFlow · JAX · OpenCV · YOLOv8
-
-**Robotics**
-- ROS 2 · GTSAM · Sensor Fusion
-
-**Cloud / DevOps**
-- AWS · Docker · FastAPI · CI/CD
-
-**Hardware**
-- Arduino · PCB Design · Sensors · DC-DC Converters
-
-**Databases**
-- PostgreSQL
-
+| **Core** | **ML/DL** | **Vision/Robotics** | **Cloud/DevOps** | **Hardware** |
+|----------|-----------|---------------------|------------------|--------------|
+| Python<br>C++<br>MATLAB<br>SQL | PyTorch<br>JAX<br>TensorFlow<br>ONNX<br>scikit-learn<br>wandb | ROS2<br>OpenCV<br>GTSAM<br>YOLOv8<br>CLIP<br>SLAM | AWS (SageMaker/ECR/App Runner)<br>Docker<br>FastAPI<br>PostgreSQL<br>GitHub Actions | Arduino<br>PCB Design<br>Power Electronics<br>Sensors |
 
 ---
 
@@ -92,7 +75,7 @@ AWS SageMaker/ECR/App Runner
 | **[GraphSLAM](https://github.com/hedemil/GraphSLAM)** | Full pipeline + natural landmark detection | GTSAM • DBSCAN • Python | Robust loop closure on Victoria Park |
 | **[FLOWER VLA](https://github.com/hedemil/flower_vla_calvin)** | 1-step flow action heads for OpenVLA | PyTorch • Generative flows | Latency reduction for robotic policies |
 | **[World3-DQN](https://github.com/hedemil/World3-DQN)** | Double DQN for sustainability policies | PyTorch • RL | Long-horizon control in nonlinear dynamics |
-| **[Swirl](https://www.swirlyourwines.com/)** | Real-time label → embedding → info pipeline | YOLOv8 CLIP AWS | 98% acc, 400ms latency|
+| **[Swirl](https://www.swirlyourwines.com/)** | Real-time label → embedding → info pipeline | YOLOv8 CLIP AWS | 98% acc, 400ms latency |
 
 **Bachelor Thesis:** [Double Deep Q-Learning on World3](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-357839)
 
