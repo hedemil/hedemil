@@ -11,16 +11,6 @@
 
   <a href="https://github.com/hedemil">
     <img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedemil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=20260210"
-      height="100"
-      alt="GitHub stats"
-    />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/hedemil">
-    <img
       src="https://streak-stats.demolab.com?user=hedemil&theme=tokyonight&hide_border=true"
       height="160"
       alt="GitHub streak"
