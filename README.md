@@ -23,9 +23,9 @@
 
 ## Currently Building
 
-**Master's Thesis** — Low-latency Vision-Language-Action models (OpenVLA)  
+**Master's Thesis** — Low-latency Vision-Language-Action models  
 Replacing DiT + rectified flow action heads with **one-step generative flows** to cut inference time while maintaining robotic task success rates.  
-*Target: Real-time deployment-ready policies for vision+language robotic control.*
+*Target: Real-time deployment-ready policies for vision-language robotic control.*
 
 **Swirl** (co-founder) — Multimodal wine label recognition  
 Built **98% accuracy** visual search with **≤400ms** end-to-end latency  
