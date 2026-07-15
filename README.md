@@ -83,5 +83,5 @@ AWS SageMaker/ECR/App Runner
 </p>
 
 <p align="center">
-  <i>Stockholm, Sweden • Open to ML/Robotics roles</i>
+  <i>Stockholm, Sweden</i>
 </p>
